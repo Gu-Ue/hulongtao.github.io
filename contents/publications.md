@@ -1,6 +1,1 @@
-- XXXXXXX论文
-
-- XXXXXXX论文
-
-- XXXXXXX论文
-
+- **Collaborative Drug Design Based on A Drug-Drug Interaction-Guided Diffusion Model**, *2025 28th International Conference on Computer Supported Cooperative Work in Design*

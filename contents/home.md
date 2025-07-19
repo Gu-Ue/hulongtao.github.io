@@ -1,20 +1,19 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Gu-Ue](https://img.shields.io/badge/GuUe-github-blue?logo=github)](https://github.com/Gu-Ue)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Computer Science at the Department of Computer Science, Wuhan University, Wuhan.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### Email
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+<code>hlt_2003@whu.edu.cn</code>
+<code>2313046975@qq.com</code>
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+#### Education
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Wuhan University**, Master of Computer Science (2025 – 2027)
 
-#### Research Interests  
-XX, XX, XX, XX.
+**Wuhan University**, Bachelor of Software Engineering (2021 – 2025)
+• GPA: 3.82/4.00 
+
+#### Research Interests
+
+Drug Discovery, Reinforcement Learning, Graph Neural Networks.
